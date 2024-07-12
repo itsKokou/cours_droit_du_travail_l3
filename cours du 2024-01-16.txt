@@ -1,0 +1,194 @@
+              4 REGLES DE VIE : Magib DIAGNE
+
+ 1- Vous ne pouvez pas tous être salariés
+ 2- Un salaire n'a jamais rendu milliardaire 
+ 3- Faites en sorte d'avoir plusieurs sources de revenus
+ 4- Quand je serai capable de dormir et gagner de l'argent, je serai riche
+------------------------------------------------------------------------------------
+Le droit du taf comprend :
+droit des relations individuel / droit des relations collectif
+droit social : droit travail + droit de protection social = branche de droit privé
+
+9 risque (de l'OIT) que courent le travailleur :
+ 
+-Accident de travail
+-maladie professionnelle
+-charge de famille
+-invalidité 
+-vieillesse
+-décès
+-maladie sous forme prise en charge (salarié et ceux ayant droit)
+-maladie qui empêche d'être présent everyday sans que son employeur ne le licencie(sous forme suspension du contrat)
+-Licenciement 
+
+
+Source du droit du travail: 
+interne :
+externe (international) : OIT, 
+
+
+Condition de Contrat de travail :
+ Consentement - Capacité - cause ou l'objet licite du contrat : tout contrat
+ Prestation de travail - Rémunération - Lien de subordination(le plus important) : travail
+
+--------------------------------- 23-01-2024 -----------------------------------
+
+stage d'incubation : 
+stage d'application/adaptation : 
+stage de pré-embauche :
+stage de requalification : 
+
+CDD : contrat à durée déterminée : les deux parties se sont entendues sur une date de debut et de fin de leur relation: ses règles :
+
+ -Il doit obligatoirement être constaté par écrit sinon pas valable
+ -Il dure maximum 2 ans 
+ -Il est renouvelable une seule fois
+ -Celui d'une durée supérieur à 3 mois doit faire une déclaration auprès de l'inspection national du travail
+
+NB : Si on t'engage sans contrat écrit, tu es en CDI  
+
+Execption CDD : journalier, saisonnier, Docker, remplacement, Complément d'effectif 
+
+travailleur saisonnier : engagé pour une activité saisonnière ou une campagne 
+
+Docker : ceux qui chargent et déchargent les bâteaux ⛴
+
+
+Il a pris comme secrétaire la cousine de son ami Gaspard et lui a dit
+oralement qu’il l’engageait en Contrat à Durée Déterminée pour une durée de 6 mois
+
+------------------------------- 30-01-2024 ----------------------------------------
+
+CDI : tout contrat qui ne respecte pas les critères du CDD. 
+ 
+Periode d'essai(contrat d'engagement à l'essai) : periode d'appréciation mutuelle.Il est constaté dans le CDI
+ - Il doit être écrit sinon null 
+ - Il dure maximun 6 mois (dure 3 mois renouvelable une seule fois cas des cadres. Mais pour les autres, ouvriers/employés 1 mois, agent de maîtrise 2 mois) 
+ - Les parties peuvent rompre à tout moment sans préavis 
+ - A l'expiration de l'essai, sans l'exclusion de contrat, tu es en CDI
+
+ 
+======== Obligations
+ ==Employeur
+  - Payer ses employés : fonctionnaire au plus tard le dernier du mois, sinon avant 8 du mois prochain
+  - Affilier le salarié à la sécurité sociale 
+  - Assurer la sécurité au travail (EPI : equipement de protection individuelle)
+
+ == Employé 
+  - Faire le travail avec bonne volonté
+  - Ne pas faire concurrence à l'employeur
+  - Ne pas avoir d'activités de nature à nuire à l'exécution des services
+
+============================== Modification du contrat
+- Modification de la situation juridique de l'employeur : 
+  + maintien et transfert des contrats en cours 
+
+ - Modification substantielle : touche un element déterminant du contrat de travail :
+    Les élements déterminants: -remunération -Lieu de travail -Le poste -Horaires
+    Effets : -Si modification était prévu dans le contrat implicite ou explicite, c'est ok. 
+             - Si non prévu,il peut accepter et continuer ou quitter
+
+ - Modification non substantielle : lorsque touche pas elm déterminant.
+  Effets :  accepter sinon insubordination 
+
+
+============ Cas pratique 1
+ 1- Oui 
+ 2- Si le syndicat auquel elle appartient n'a pas de relation directe avec son travail alors son employeur est en tort : liberté syndicale
+
+============ Cas pratique 2
+1- Oui 
+2- Tous les critères != CDD
+3- Les fiches de paie
+4- Un accord entre les deux parties 
+
+===================== Cause de suspension contrat
+
+ - Chômage technique :cause conjoncturelle : vous produisez mais vendez pas 
+ - Disponibilité : contrat suspendu pour que l'employé dispose de sa disponibilité 
+ - Accident de travail : y compris accident de trajet
+ - Maladie professionnelle (y'a une liste)
+ - La grêve(droit, appartenir à un syndicat)
+ - Le lock out
+ - Les congés annuels (Convention art 70, codeTravail art 150) :
+   - Congés supplémentaires pour ancienneté 
+   - Congés supplémentaires pour enfants à charge
+ - La détention préventive
+ - La mise a pied du délègué du personnel dans l’attente d’une décision de l’inspection du travail
+
+
+------------------------- 31-01-2023 ------------------------------------
+
+======= Rupture des contrat de travail
+Licenciement 
+Démissions 
+
+Préavis : l'avis donné par une partie à l'autre pour l'informer de la résiliation du contrat et précise la date d'expiration (3 mois normalement : Periode de préavis)
+ L'employé a droit à 2 jours par semaine pour la recherche d'emploi
+
+====== Types de Licenciement 
+ - Licenciement pour faute disciplinaire 
+   - faute grave : salaire + indemnités congé, lienciement, préavis(salaire * durée préavis)
+
+  # Calcul indemnité Licenciement: Article 80 convention : - 1-5 ans : 25%
+                                                           - 6-10 ans : 30%
+                                                           - 10ans et + : 40%
+
+  # Calcul indemnité Retraite: Article 84 convention : - 1-5 ans : 25%
+                                                       - 6-10 ans : 30%
+                                                       - 11-20ans : 45%
+                                                       - 20ans et + : 50%
+
+  # Calcul indemnité Fin de contrat: Article 47 code du travail (7% du montant total de remuneration brut au cours du contrat)
+
+
+
+
+
+
+=============================== REVISION 20-02-2024 ================================
+
+# Droit du travail :l’ensemble des règles d’origine internationale, législative, réglementaire et conventionnelle qui régissent les rapports entre employeurs et travailleurs. 
+
+#Source du travail 
+ * Sources classiques 
+  - Convention de OIT 
+  - Constitution
+  - Code du travail
+  - Jurisprudence
+  - Coutume 
+ * sources professionnelles : 
+  -Convention collective :  un accord relatif aux conditions de travail 
+	conclue entre, d’une part, les représentants d’un ou plusieurs 
+	syndicats ou groupements professionnels de travailleurs et, 
+	d’autre part, une ou plusieurs organisations syndicales 
+	d’employeurs ou un ou plusieurs employeurs pris 
+	individuellement.
+
+#L’embauchage se traduit juridiquement par un contrat de travail qui lie le travailleur à l’entreprise. 
+
+#Le contrat de travail se défnit comme un accord de volonté par lequel une personne physique appelée employé met sa qualifcation professionnelle à la disposition d’une autre personne physique ou morale appelée employeur moyennant rémunération.
+
+#Ainsi le travailleur bénévole qui travaille gratuitement n’a pas de contrat de travail.
+
+#En efet l’article L 145 du code du travail dispose que « les enfants ne peuvent être employés dans aucune entreprise même comme apprentis avant l’âge de 15 ans ».d’où on peut conclure qu’au Sénégal, l’âge minimum de travail est de 15 ans
+
+#Les contrats devant être écrits 
+   D’un contrat à durée déterminée ; 
+   D’un contrat d’engagement à l’essai ; 
+   D’un contrat d’apprentissage ; 
+   D’un contrat qui nécessite le déplacement du travailleur hors de son lieu habituel de résidence ;
+
+#Cause Licenciement 
+
+-motif disciplinaire : faute lourde
+-inaptitude
+-motif économique
+
+#Pour bénéfcier de l’indemnité de licenciement le travailleur doit remplir certaines conditions: 
+  - avoir été licencié, 
+  - avoir accompli dans l’entreprise une durée de service continue d’au moins d’un an; 
+  - n’avoir pas été licencié pour faute lourde.
+
+
+#Licenciement pour faute non lourde est indemnisé
